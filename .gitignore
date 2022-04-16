@@ -6,3 +6,11 @@ DATA/CATS_DOGS/
 03-Video-Basics/__pycache__/
 
 .h5
+
+*.h5
+
+06-Deep-Learning-Computer-Vision/.DS_Store
+
+07-Capstone-Project/.DS_Store
+
+.DS_Store
